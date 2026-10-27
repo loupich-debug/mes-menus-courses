@@ -1,0 +1,16 @@
+MES MENUS & COURSES — INSTALLATION
+
+POUR ESSAYER SUR WINDOWS SANS INSTALLATION :
+Ouvrez index.html dans Chrome ou Edge. Menus, courses et sauvegarde fonctionnent. L'installation et l'utilisation hors ligne nécessitent un hébergement HTTPS.
+
+POUR INSTALLER SUR WINDOWS ET IPHONE :
+1. Mettez les fichiers du dossier sur un hébergement HTTPS, par exemple GitHub Pages ou Netlify Drop. Conservez tous les fichiers ensemble.
+2. Ouvrez l'adresse HTTPS publiée dans Chrome/Edge (Windows) ou Safari (iPhone).
+3. Sur Windows : icône « Installer l'application » dans la barre d'adresse de Chrome/Edge, si proposée.
+4. Sur iPhone : bouton Partager dans Safari > Sur l'écran d'accueil > Ajouter.
+5. Ouvrez l'application une première fois en ligne pour permettre le fonctionnement hors connexion.
+
+DONNÉES :
+Les menus, coches et favoris sont enregistrés localement dans chaque navigateur/appareil. Ils ne se synchronisent pas automatiquement. Utilisez Réglages > Sauvegarder mes données (export JSON), puis Restaurer une sauvegarde sur l'autre appareil.
+
+NOTE : héberger sur GitHub Pages/Netlify publie les fichiers de l'application, mais pas les menus privés enregistrés dans votre navigateur.
